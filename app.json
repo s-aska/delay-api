@@ -1,0 +1,9 @@
+{
+    "name": "Delay API",
+    "description": "Simple echo server with delay",
+    "keywords": [
+        "Delay API"
+    ],
+    "website": "https://github.com/s-aska/delay-api",
+    "repository": "https://github.com/s-aska/delay-api"
+}
